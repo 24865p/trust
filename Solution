@@ -27,7 +27,7 @@ class Solution {
         	
         	if(count>=2&&i%3==0) {
         		if(a==3)
-        			a=0;
+        			a=0;asd
         		sb.setCharAt(1, c[a++]);
         	}
         	
